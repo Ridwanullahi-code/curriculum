@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato:ital,wght@0,400;0,700;1,400&family=Nunito:wght@400;500&family=Roboto+Slab:wght@200;300;400;500;600&display=swap');
+
+*{
+	margin:0;
+	padding:0;
+	font-family:'Roboto',
+	'Lato',
+	'Helvetica Neue',
+	sans-serif;
+	box-sizing: border-box;
+	list-style: none;
+	text-decoration: none;
+}
+
+body{
+	font-size: 20px;
+}
+/* Element Selector */
+header{
+	background-color: blueviolet;
+}
+
+/* a{	
+	color:white;
+} */
+/* Class Sector */
+
+/* .nav-item{
+	color:yellow;
+} */
+header .web-logo{
+	color:white;
+}
+
+/* Id Selecor */
+
+/* #nav-item{
+	color:black;
+} */
+ul li a[name]{
+	color:white;
+}
+
+/* Typograph */
+
+.nav-item{
+	font-size: 30px;
+	font-weight: lighter;
+	font-style: normal;
+}
+
+/* css units */
+
+/* % , vw, vh, rem, em , px*/
+
+
+.heading{
+	background-color: blue;
+	width: 100%;
+	height:100vh;
+	/* font-size:20px; */
+}
+
+/* parent - children relationship unit */
+.heading h1{
+	background-color: white;
+	width: 100%;
+	padding:10px;
+	font-size: 2em;  
+	/* 16px */
+}
+.heading p{
+	font-size: 1.2em;
+}
+/* viewpoint width */
+.heading p{
+	font-size: 4vw;
+}
+
+aside .read-more {
+	font-size: 2rem;
+}
+
+/*  */
+header{
+	padding: 2vw;
+	margin: 10px;
+	border: 3px dashed black;
+}
