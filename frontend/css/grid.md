@@ -22,15 +22,9 @@ Next, read the tutorials by w3schools and play with the examples using the *Try 
 - [CSS Grid Layout Module](https://www.w3schools.com/css/css_grid.asp)
 - [CSS Grid Container](https://www.w3schools.com/css/css_grid_container.asp)
 - [CSS Grid Item](https://www.w3schools.com/css/css_grid_item.asp)
-
-## Challenge Yourself
-*Use these questions to check what you learned during this lesson.*
-- [20 questions quiz about CSS Grid](https://forms.gle/7W1QYnUz8cNczFSbA).
-
+- [CSS_Grid_Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+- [CSS Grid Handbook](https://www.freecodecamp.org/news/complete-guide-to-css-grid/)
+- 
 ## Additional Materials
 *These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
 - Check these [CSS layout templates](https://www.w3schools.com/css/css_templates.asp) by w3schools to compare how the same layout can be set up using floats, Flexbox, or CSS Grid.
-
-------
-
-_If you spot any bugs or issues in this activity, you can [open an issue with your proposed change](https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/open_issue.md)._
