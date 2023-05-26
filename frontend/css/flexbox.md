@@ -18,10 +18,6 @@ When you do work on the front-end it is your responsibility to transform a web d
 
 - Watch this [video tutorial](https://www.youtube.com/playlist?list=PLu8EoSxDXHP7xj_y6NIAhy0wuCd4uVdid) by Wes Bos (2.5h).
 
-## Challenge Yourself
-
-*Use these questions to check what you learned during this lesson.*
-- [20 questions quiz about Flexbox](https://docs.google.com/forms/d/e/1FAIpQLSelTi87XC9r3Z8gxqwgNsWCjw_NNjH3Qd-TNNvdiNSocCjaaA/viewform).
 
 ## Additional Materials
 
